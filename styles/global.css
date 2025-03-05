@@ -26,3 +26,8 @@ body {
   color: var(--text-color-primary);
   background-color: var(--bgcolor);
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
